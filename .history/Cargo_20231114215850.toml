@@ -6,7 +6,7 @@ license = "MIT"
 description = "ffmpeg command box"
 homepage = "https://github.com/oulaoba/easy_ffmpeg"
 documentation = "https://github.com/oulaoba/easy_ffmpeg"
-repository = "https://github.com/oulaoba/easy_ffmpeg"
+repository = ""
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
